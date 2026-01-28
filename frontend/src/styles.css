@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { font-family: Inter, system-ui, sans-serif -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background:#f7f7fb; color:#111; }
+.container { max-width:800px; margin:32px auto; background:white; padding:20px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.06); }
+form { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:16px; }
+input, textarea, select { padding:8px; border:1px solid #ddd; border-radius:6px; min-width:180px; }
+button { padding:8px 12px; border-radius:6px; border:none; background:#2563eb; color:white; cursor:pointer; }
+.feedback-item { border-bottom:1px solid #eee; padding:10px 0; display:flex; justify-content:space-between; gap:12px; }
+.meta { color:#555; font-size:0.9rem; }
+.temp { opacity:0.6; font-style:italic; }
