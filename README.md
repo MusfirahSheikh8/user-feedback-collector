@@ -12,6 +12,12 @@ new feedback appears immediately in the UI and is replaced with the confirmed ba
 - `frontend/` - Vite + React frontend (dev server runs at 5173 by default)
   - `src/` - React source including Redux setup and components
 
+  ## 🎥 Demo Video
+
+    Watch the full walkthrough here:
+
+    https://www.loom.com/share/78cb4901f2fc4da9b07f951071cfd268
+
 ## Requirements
 
 - Node.js (v18+ recommended)
