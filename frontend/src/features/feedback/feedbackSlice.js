@@ -12,7 +12,7 @@ const slice = createSlice({
       state.items = action.payload;
     },
     addOptimistic(state, action) {
-      // add to front
+    
       state.items = [action.payload, ...state.items];
     },
     replaceTemp(state, action) {

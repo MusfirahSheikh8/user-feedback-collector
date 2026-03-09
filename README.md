@@ -16,7 +16,7 @@ new feedback appears immediately in the UI and is replaced with the confirmed ba
 
     Watch the full walkthrough here:
 
-    https://www.loom.com/share/78cb4901f2fc4da9b07f951071cfd268
+    https://www.loom.com/share/17a7f21413804fb9a3dfd3be918f06e8
 
 ## Requirements
 
@@ -59,3 +59,6 @@ new feedback appears immediately in the UI and is replaced with the confirmed ba
 ## License
 
 MIT
+
+## Author
+Musfirah Sheikh
